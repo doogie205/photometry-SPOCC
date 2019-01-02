@@ -1,6 +1,6 @@
 This python project is made by Dakota Powers with help from SPOCC research group. 
 
-IF YOU ARE RUNNING ON ANY APPLE DEVICE GET MAC-SPOCC.py INSTEAD OF SPOCC.py
+IF YOU ARE RUNNING ON ANY APPLE DEVICE GET SPOCC-MAC.py INSTEAD OF SPOCC.py
 
 Modules you'll need to install to make this work:
 -photutils
