@@ -1,4 +1,4 @@
-This python project is made by Dakota Powers with help from SPOCC research group. 
+This python project is made by Dakota Powers with MASSIVE help from SPOCC research group. 
 
 IF YOU ARE RUNNING ON ANY APPLE DEVICE GET SPOCC-MAC.py INSTEAD OF SPOCC.py
 
